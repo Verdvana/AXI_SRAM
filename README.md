@@ -34,5 +34,5 @@
 
 
 * 读写仿真：
-    * ![m0_wr](https://raw.githubusercontent.com/Verdvana/AXI4_Interconnect/master/Simulation/AXI4_Interconnect_TB/m0_wr.jpg)
+    * ![wave](https://raw.githubusercontent.com/Verdvana/AXI_SRAM/master/Simulation/AXI_Sram_TB/wave.jpg)
 
